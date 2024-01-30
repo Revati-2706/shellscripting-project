@@ -1,0 +1,7 @@
+classical token of the git of project shellscripting-project
+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
+
+url  of the git of project shellscripting-project
+
+git remote set-url origin https://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@github.com/Revati-2706/shellscripting-project 
+
